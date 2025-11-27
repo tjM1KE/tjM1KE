@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- Title -->
+<h1 align="center">💚 Hi, I'm <span style="color:#3CB043;">Michail</span></h1>
 
-<!--
-**tjM1KE/tjM1KE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌿 About Me
+- 🎓 Maths graduate from **King’s College London (KCL)**
+- 📍 Based in **London, UK**
+- 🗣️ Fluent in **English** and **Russian**
+- 🎮 Passionate gamer & tech explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### Languages  
+![Python](https://img.shields.io/badge/Python-3CB043?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2E8B57?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-228B22?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🌱 What I'm Learning / Building
+- Growing my software engineering & data skills  
+- Creating small Python & JavaScript projects  
+- Exploring how maths blends with real-world tech  
+
+---
+
+## 📫 Contact
+Feel free to explore my repositories or drop a message!
+
+---
+
+### ♻️ Thanks for visiting!
