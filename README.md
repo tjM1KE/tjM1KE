@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">💚 Hi, I'm <span style="color:#3CB043;">Michail</span></h1>
+<h1 align="center">💚 Hi, I'm <span style="color:#3CB043;">Michael</span></h1>
 
 ---
 
