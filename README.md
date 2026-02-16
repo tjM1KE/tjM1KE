@@ -7,7 +7,6 @@
 - 🎓 Maths graduate from **King’s College London (KCL)**
 - 📍 Based in **London, UK**
 - 🗣️ Fluent in **English** and **Russian**
-- 🎮 Passionate gamer & tech explorer
 
 ---
 
