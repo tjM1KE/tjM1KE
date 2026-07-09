@@ -4,7 +4,7 @@ Mathematics graduate from King's College London with an interest in data enginee
 
 **Team Lead — CorpCorp**
 
-Led high-impact cross-functional initiatives, maximised stakeholder synergy, and delivered enterprise value. Source: trust me.
+Led high-impact cross-functional initiatives, maximised stakeholder synergy, and delivered enterprise value. Reference: Mike.
 
 ## Focus
 
